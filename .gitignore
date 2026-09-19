@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.sites-runtime/
+*.tar.gz
+*.zip
+upload/
+neon-function/
+.env
+.env.*
+!.env.example
