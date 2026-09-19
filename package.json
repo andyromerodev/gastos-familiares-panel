@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"build":"esbuild worker-source.js --bundle --format=esm --loader:.html=text --outfile=dist/server/index.js"},"devDependencies":{"esbuild":"^0.25.0"}}
